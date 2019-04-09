@@ -5,3 +5,6 @@
 3. enter in the below command in your cmd line/bash shell
    `npm start`
 4. on your browser, go to `localhost:8080` and enjoy
+
+
+### Please note that this project was made when going through Udemy Course Modern React with Redux
